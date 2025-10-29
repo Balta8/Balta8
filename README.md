@@ -13,13 +13,6 @@ I enjoy experimenting with models, creating impactful solutions, and continuousl
 
 ---
 
-### 🛠️ Tech Stack
-Python | TensorFlow | PyTorch | Scikit-learn | LangChain | FastAPI | SQL | Docker  
-
-🚀 Always open to collaboration and innovative projects!
-
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-balta-52302b268)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedbalta10@gmail.com)
